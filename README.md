@@ -15,7 +15,7 @@ Create a program that displays a greeting message.
        }
    }
    ```
-3. Modify the example program to display a greeting message, like `"Hello Math 130!"`.
+3. Modify the example program to display a the message `"Hello Math 130!"`.
 # CODING STANDARDS
 - Remove any auto-generated comments.
 - Write a comment that includes your name.
