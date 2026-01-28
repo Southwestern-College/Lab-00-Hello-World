@@ -20,4 +20,4 @@ Create a program that displays a greeting message.
 - Remove any auto-generated comments.
 - Write a comment that includes your name.
 # SUBMIT
-Submit a link to you GitHub Repository on the Canvas assignment page for this lab (`https://github.com/Math-130/Lab-00-Hello-World-your-username`). **Do not submit a link to your Codespace!**
+Submit a link to you GitHub Repository on the Canvas assignment page for this lab (`https://github.com/Math-130/Lab-00-your-username`). **Do not submit a link to your Codespace!**
