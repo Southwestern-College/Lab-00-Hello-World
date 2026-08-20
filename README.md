@@ -20,12 +20,14 @@
 
 ## Instructions
 
-1. Open a new Codespace. Click the green "<> Code" button. Select "Codespaces" and click on the green "Create codespace on main" button. **Be patient while the Codespace is being built!**
-2. Create a new file named `HelloWorld.java`.
-
+1. Open a new Codespace.
+   1. Click the green "<> Code" button.
+   2. Select "Codespaces".
+   3. Click on the green "Create codespace on main" button. **‼️Be patient while the Codespace is being built‼️**
+3. Create a new file named `HelloWorld.java`.
    1. In the *Explorer View* on the left, click on the *New File* icon or right-click and select *New File*
    2. Type `HelloWorld.java` and press enter.
-3. Copy and paste the following example code into `HelloWorld.java`.
+4. Copy and paste the following example code into `HelloWorld.java`.
 
 ```java
 public class ClassName {
