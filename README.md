@@ -20,7 +20,7 @@
 
 ## Instructions
 
-1. Open a new Codespace using the link at the top of this README file. **Be patient while the Codespace is being built!**
+1. Open a new Codespace. Click the green "<> Code" button. Select "Codespaces" and click on the green "Create codespace on main" button. **Be patient while the Codespace is being built!**
 2. Create a new file named `HelloWorld.java`.
 
    1. In the *Explorer View* on the left, click on the *New File* icon or right-click and select *New File*
