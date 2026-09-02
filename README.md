@@ -24,10 +24,10 @@
    1. Click the green "<> Code" button.
    2. Select "Codespaces".
    3. Click on the green "Create codespace on main" button. **‼️Be patient while the Codespace is being built‼️**
-3. Create a new file named `HelloWorld.java`.
+2. Create a new file named `HelloWorld.java`.
    1. In the *Explorer View* on the left, click on the *New File* icon or right-click and select *New File*
    2. Type `HelloWorld.java` and press enter.
-4. Copy and paste the following example code into `HelloWorld.java`.
+3. Copy and paste the following example code into `HelloWorld.java`.
 
 ```java
 public class ClassName {
@@ -37,41 +37,35 @@ public class ClassName {
 }
 ```
 
-5. Change the class name to `HelloWorld`.
-6. Modify the code inside `System.out.println` to displays the following message
+4. Change the class name to `HelloWorld`.
+5. Modify the code inside `System.out.println` to displays the following message
 
 ```
 Hello Math 130!
 ```
 
-7. Run the program.
+6. Run the program.
 
    * Click the play button on the top-right of the editor window or right-click the file and select **Run Java**.
-8. Test the code
+7. Test the code
 
    1. Click on the  Erlenmeyer flask (cone flask) on the Activity Bar (left-hand navigation menu), which opens the Test view in the Primary Side Bar.
    2. Select ***Run Test*** from the Test view by hovering over the test (***Lab-00-Hello\_World***), which reveals a play button.
    3. If your code passes the test, a green checkmark will appear. If you see a red X, click on the expected message and investigate the differences.
-9. Repeat steps 5 through 8 until all tests are passed.
-10. Add a comment at the top of your code with your name.
+8. Repeat steps 5 through 7 until all tests are passed.
+9. Include a JavaDoc header comment at the top of your file using the `@author` tag with your full name.
+
+Example:
 
 ```
-// Single line comment
-
-/*
- * Multi-
- * line
- * comment
- */
-
 /**
- * JavaDoc comment
+ * JavaDoc comment with your program description
  *
- * @author Your Name
+ * @author Firstname Lastname
  */
 ```
 
-11. Commit and push your changes.
+10. Commit and push your changes.
 
     1. Click on the Source Control icon (three interconnected circles) in the Activity Bar.
     2. Click on the plus sign next to the files you wish to commit.
